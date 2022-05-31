@@ -18,6 +18,6 @@
             <RowDefinition Height="50" />
             <RowDefinition Height="50" />
         </Grid.RowDefinitions>
-        <Button Content="打开" Click="Button_Click" />
+        <Button Click="Button_Click" Content="打开" />
     </Grid>
 </Window>
